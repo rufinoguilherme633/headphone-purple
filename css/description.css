@@ -1,0 +1,17 @@
+.description {
+    grid-area: description;
+    color: #d5b9cf;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.description_title {
+    font-size: 6rem;
+
+}
+
+.description_text {
+    font-size: 1.5rem;
+
+}
