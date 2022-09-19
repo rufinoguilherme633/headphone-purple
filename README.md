@@ -1,5 +1,5 @@
 # headphone Ranzer Kraken BT
-<!--capa do   -->
+<!-- aqui é a descrição  -->
 ![](./img/DESKTOP.png)
 
 [Click aqui](https://rufinoguilherme633.github.io/headphone-purple/) para acessar o site
