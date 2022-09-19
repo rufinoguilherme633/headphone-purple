@@ -1,4 +1,11 @@
 .social {
     grid-area: social;
-    background-color: blue;
+    /* alistando os itens */
+    /* como linha */
+    display: flex;
+/* alinhando em coluna */
+    flex-direction: column;
+/* alinhando  no final */
+    justify-content: flex-end;
+    gap: 20px;
 }
