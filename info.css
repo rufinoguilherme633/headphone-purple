@@ -1,0 +1,28 @@
+.info {
+    height: 100px;
+    width: 200px;
+    background-color: #000;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+/* espassamente entre */
+    gap: 8px;
+    font-size: .75rem;
+}
+
+.info_number {
+    
+    /* grossura da font */
+    font-weight: 600;
+}
+.info_feature {
+    
+    font-weight: 800;
+}
+.info_value {
+    
+    font-weight: 400;
+}
+
